@@ -15,63 +15,96 @@ Check out my personal portfolio built with **React Vite** and **Tailwind CSS**: 
 
 ## Technical Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
+## Technical Skills
 
-<!-- Frontend -->
+<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; align-items: center;">
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
   <p>React</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
   <p>HTML</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
   <p>CSS</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
   <p>JavaScript</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" />
   <p>Tailwind CSS</p>
 </div>
 
-<!-- Backend -->
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
   <p>Python</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
   <p>Java</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" />
   <p>C#</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" />
   <p>.NET</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" />
   <p>SQL Server</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
   <p>MySQL</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" />
   <p>Firebase</p>
 </div>
+
 <div style="text-align: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" />
   <p>Oracle</p>
 </div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
+  <p>Git</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" />
+  <p>GitHub</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" />
+  <p>VS Code</p>
+</div>
+
+<div style="text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="60" />
+  <p>WordPress</p>
+</div>
+</div>
+
 
 <!-- Tools -->
 <div style="text-align: center;">
