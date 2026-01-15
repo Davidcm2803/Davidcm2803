@@ -60,7 +60,7 @@ Check out my personal portfolio built with **React Vite** and **Tailwind CSS**: 
 - Automated case management and parts-request processes, reducing response times.  
 - Managed network administration and hardware support (switches, Broadcom devices).  
 
-### Call Center | Amazon CRC (2021–2022)
+### CSR | Amazon CRC (2021–2022)
 - Supported U.S. Amazon employees with COVID-19 leave requests.  
 - Improved English communication, empathy, and high-volume case management.  
 - Achieved a 30% improvement in handle time and customer satisfaction metrics.  
