@@ -9,7 +9,7 @@ Junior Software Developer | Python | Java | C# | JavaScript | MySQL | React | Ta
 ## About Me
 I'm a **Junior Software Developer** with over 3 years of experience in technical support and software development. I have hands-on experience creating internal tools, automating workflows, testing applications, and troubleshooting code. I enjoy solving problems and building efficient, innovative IT solutions.  
 
-Check out my personal portfolio built with **React Vite** and **Tailwind CSS**: [Portfolio](https://github.com/Davidcm2803/portfolio-react)  
+Check out my personal portfolio built with **React Vite** and **Tailwind CSS**: [Portfolio](https://portfolio-react-three-rust.vercel.app/)  
 
 ---
 
