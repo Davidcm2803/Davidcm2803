@@ -1,4 +1,4 @@
-# Hi, I'm David Castillo Mora 👋
+# Hi, I'm David Castillo 🍳
 **Bilingual (English / Spanish)**  
 Junior Software Developer | Python | Java | C# | JavaScript | MySQL | React | Tailwind CSS  
 
