@@ -3,7 +3,6 @@
 <!-- BANNER (own image) -->
 <img src="./banner.jpg" width="100%" alt="Banner"/>
 
-
 ### Hi, I'm David — Bilingual Full Stack Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidportofolio-fawn.vercel.app/)
@@ -160,7 +159,7 @@ Tourism e-commerce web app for San José City with online payments and real-time
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=davidcm2803&theme=dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="48%" alt="Top Languages"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/davidcm2803&label=Total%20Projects&query=public_repos&color=58a6ff&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" width="48%" alt="Total Projects"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdavidcm2803&label=Total%20Projects&query=%24.public_repos&color=58a6ff&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" width="48%" alt="Total Projects"/>
 
 </div>
 
@@ -168,7 +167,7 @@ Tourism e-commerce web app for San José City with online payments and real-time
 
 <div align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=davidcm2803&theme=dracula&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f78166" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidcm2803&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166" width="100%" alt="Contribution Graph"/>
 
 </div>
 
