@@ -1,10 +1,8 @@
 <div align="center">
 
 <!-- BANNER (imagen propia) -->
-<img src="./banner.png" width="100%" alt="Banner"/>
+<img src="./banner.jpg" width="100%" alt="Banner"/>
 
-<!-- FOTO DE PERFIL -->
-<img src="https://github.com/davidcm2803.png" width="150" style="border-radius:50%;" alt="David Castillo"/>
 
 ### 👋 Hola, soy David — Bilingüe (ES/EN) 🇨🇷
 
