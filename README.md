@@ -170,7 +170,7 @@ E-commerce de turismo para San José con pagos en línea y almacenamiento de dat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=davidcm2803&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=davidcm2803&theme=dark&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
 
 </div>
 
@@ -180,7 +180,7 @@ E-commerce de turismo para San José con pagos en línea y almacenamiento de dat
 
 <!--START_SECTION:activity-->
 <!-- Este bloque se puede automatizar con la GitHub Action "github-readme-activity-graph" -->
-<img src="https://activity-graph.herokuapp.com/graph?username=davidcm2803&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=davidcm2803&theme=dracula&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f78166" width="100%"/>
 <!--END_SECTION:activity-->
 
 </div>
