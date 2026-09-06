@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER (own image) -->
-<img src="./banner.jpg" width="100%" alt="Banner"/>
+<img src="./banner.jpg" width="100%" style="max-height:280px;object-fit:cover;" alt="Banner"/>
 
 ### Hi, I'm David — Bilingual Full Stack Software Developer
 
@@ -125,32 +125,61 @@ Tourism e-commerce web app for San José City with online payments and real-time
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-6E6E6E?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-6E6E6E?style=flat-square&logo=githubactions&logoColor=white)
 
 **AI & Data**
 ![RAG](https://img.shields.io/badge/-RAG%20Pipelines-FF6F00?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM%20Integrations-FF6F00?style=flat-square)
 ![Vector DB](https://img.shields.io/badge/-Vector%20Databases-4B0082?style=flat-square)
-![Weaviate](https://img.shields.io/badge/-Weaviate-00C58E?style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OCR](https://img.shields.io/badge/-OCR-4B0082?style=flat-square)
+![Applied AI](https://img.shields.io/badge/-Applied%20AI-FF6F00?style=flat-square)
+![Data Science](https://img.shields.io/badge/-Data%20Science-4B0082?style=flat-square)
 
 **Security**
 ![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-1B1B1B?style=flat-square)
+![WAF](https://img.shields.io/badge/-Web%20App%20Firewalls-1B1B1B?style=flat-square)
+![MITM](https://img.shields.io/badge/-Network%20%26%20MITM%20Analysis-1B1B1B?style=flat-square)
+![SAST](https://img.shields.io/badge/-SAST-1B1B1B?style=flat-square)
 ![Semgrep](https://img.shields.io/badge/-Semgrep-1B1B1B?style=flat-square)
 ![Bandit](https://img.shields.io/badge/-Bandit-yellow?style=flat-square)
+
+**Tools & Testing**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
