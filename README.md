@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER (own image) -->
-<img src="./banner.jpg" width="100%" style="max-height:200px;object-fit:cover;" alt="Banner"/>
+<img src="./banner.jpg" width="100%" style="max-height:100px;object-fit:cover;" alt="Banner"/>
 
 ### Hi, I'm David — Bilingual Full Stack Software Developer
 
