@@ -74,7 +74,7 @@ Full e-commerce application built with .NET for managing a sneaker catalog, orde
 
 `.NET Core` `C#` `SQL Server`
 
-🔗 [Demo](https://shoeystore.runasp.net/)[Repo](https://github.com/Davidcm2803/Shoe-Eccomerce)
+🔗 [Demo](https://shoeystore.runasp.net/) · [Repo](https://github.com/Davidcm2803/Shoe-Eccomerce)
 
 </td>
 <td width="50%">
