@@ -3,7 +3,7 @@
 <!-- BANNER (own image) -->
 <img src="./banner.jpg" width="100%" style="max-height:100px;object-fit:cover;" alt="Banner"/>
 
-### Bilingual Full Stack Software Developer
+### Full Stack Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davidportofolio-fawn.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidcm2803@gmail.com)
